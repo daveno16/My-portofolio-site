@@ -27,4 +27,4 @@ This site can be deployed to any static hosting service like:
 
 ## License
 
-Copyright © 2024 David Iyareen Omayo
+Copyright © 2024 David Iyare Enomayo
